@@ -1,1 +1,1 @@
-console.log("Mains branch");
+console.log("Main branch");
