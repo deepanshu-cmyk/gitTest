@@ -1,1 +1,1 @@
-console.log("this is dev home");
+console.log("this is development home");
