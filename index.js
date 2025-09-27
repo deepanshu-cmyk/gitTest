@@ -1,1 +1,1 @@
-console.log("Developmnets branch");
+console.log("Developmnet branch");
