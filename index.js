@@ -7,3 +7,10 @@ async function test(params) {
 }
 
 test();
+async function test2() {
+    const res = await fetch('https://jsonplaceholder.typicode.com/comments?postId=1');
+    const json = await res.json();
+    console.log(json);
+}
+
+test2();
