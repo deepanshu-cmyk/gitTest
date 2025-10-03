@@ -1,3 +1,9 @@
 console.log("pro branch");
-console.log("pro1 branch");
-console.log("pro2 branch");
+
+async function test(params) {
+    const res = await fetch('https://jsonplaceholder.typicode.com/posts')
+    const json = await res.json()
+    console.log(json)
+}
+
+test();
