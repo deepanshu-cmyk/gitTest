@@ -9,5 +9,5 @@ console.log("this is just for tewsting2");
 
 console.log("this is development ");
 
-console.log("this is my password 123");
+console.log("this is my password");
 
